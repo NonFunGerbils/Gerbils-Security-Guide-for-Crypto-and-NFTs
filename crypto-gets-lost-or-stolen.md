@@ -1,4 +1,4 @@
-# 2. How crypto gets lost or stolen
+# Crypto gets lost or stolen
 
 ### **Phishing links**
 
