@@ -68,7 +68,7 @@ If your use one email and password for multiple sites and one of them leaks thos
 
 According Verizon's [2022 Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/dbir/) 81% of data breaches are caused by weak, and reused passwords, which as we know leads to more data breaches... break the cycle.
 
-Correct [password management](3.-protect-yourself.md#passwords) and hygiene can help prevent this. Add a different username / email for each service and protection is increased.
+Correct [password management](#passwords) and hygiene can help prevent this. Add a different username / email for each service and protection is increased.
 
 ## **Sim swapping**
 
