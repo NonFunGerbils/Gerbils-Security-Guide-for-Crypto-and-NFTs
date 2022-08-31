@@ -76,7 +76,7 @@ This is porting someone's phone number to another sim card to take control of th
 
 In addition if they have access to your email they might also have access to your google drive, dropbox, icloud and be able to scrape through and take anything they like such as backups of passwords and seed phrases or personal photos.
 
-2FA (Two Factor Authentication) and OPSEC (Operational Security) can help defend against this.
+[MFA (Multi Factor Authentication)](#mfa-multifactor-authentication) and [OPSEC (Operational Security)](#opsec-operational-security) can help defend against this.
 
 ## **Social engineering**
 
@@ -114,7 +114,7 @@ This is where VPNs become an important tool.
 
 ## Physical theft
 
-Physical attacks happen when people known to have a large amount of crypto are targeted, often at their homes. This can involve weapons and holding family members hostage highlighting the importance of good [OPSEC](3.-protect-yourself.md#opsec-operational-security).
+Physical attacks happen when people known to have a large amount of crypto are targeted, often at their homes. This can involve weapons and holding family members hostage highlighting the importance of good [OPSEC](#opsec-operational-security).
 
 # 3. How to protect yourself
 
