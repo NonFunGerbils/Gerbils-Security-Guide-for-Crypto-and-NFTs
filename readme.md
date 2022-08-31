@@ -29,6 +29,7 @@
      - [Multi-signature wallets](#multi-signature-wallets)
      - [Social recovery wallets](#social-recovery-wallets)
      - [Migrating from software wallet to hardwarewallet](#migrating-from-software-wallet-to-hardware-wallet)
+     - [Wallet usage](#wallet-usage)
    - [Token approvals](#token-approvals)
    - [Backups](#backups)
    - [VPNs](#vpns)
@@ -283,6 +284,7 @@ This should only be done if it prohibitively expensive to just move the NFTs, wh
 It is good practice to have hot wallets and cold wallets
 
 **Cold wallets** are stored offline, rarely accessed and used to keep assets of larger value
+
 **Hot wallets** are for day-to-day usage but are only used to keep smaller amounts of value
 
 To build on this principle you can further increase security - as suggested by Tagachi in our interview - by never enabling blind transaction signing or interacting with any smart contracts with your hardware / cold wallets, instead gp  cold wallet --> hot wallet --> contract interaction and vice versa the otherway.
