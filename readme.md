@@ -287,7 +287,7 @@ It is good practice to have hot wallets and cold wallets
 
 **Hot wallets** are for day-to-day usage but are only used to keep smaller amounts of value
 
-To build on this principle you can further increase security - as suggested by Tagachi in our interview - by never enabling blind transaction signing or interacting with any smart contracts with your hardware / cold wallets, instead gp  cold wallet --> hot wallet --> contract interaction and vice versa the otherway.
+To build on this principle you can further increase security - [as suggested by Tagachi in our interview](https://nonfungerbils.com/podcast/41-tagachi-wallet-security) - by never enabling blind transaction signing or interacting with any smart contracts with your hardware / cold wallets, instead gp  cold wallet --> hot wallet --> contract interaction and vice versa the otherway.
 
 > In extreme cases different assets can be stored in separate hardware wallets for compartmentalisation
 
