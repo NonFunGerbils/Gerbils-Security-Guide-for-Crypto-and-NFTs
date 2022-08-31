@@ -188,6 +188,8 @@ Some Apple Macbooks with the T2 security chip can use fingerprint scanner as har
 
 ![](<.gitbook/assets/yubikeys (1).png>)
 
+> [Nitrokey](https://www.nitrokey.com/) is an open source alternative to Yubikey.
+
 ### Authenticator apps
 
 There are many of these apps you would typically have on your phone that generate a mew numeric passcode that changes every minute. I would recommend open source and one that allows you to export keys to a new device otherwise it becomes a nightmare when changing phones. Also good practice would be to have them set them up on multiple devices for redundancy.
