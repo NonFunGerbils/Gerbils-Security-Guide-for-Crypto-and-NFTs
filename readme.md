@@ -251,7 +251,9 @@ Muti-sig wallets can be an excellent option for certain use cases. [Gnosis Safe]
 
 These are small physical devices that store your seed in a high security chip and require physical sign-off on transactions. Hardware wallets are generally recognised as the industry standard for personl seed security.
 
->I would recommend setting up two devices with the same seed for redundancy and there are a few notes to ensure safety:
+>I would recommend setting up two devices with the same seed for redundancy.
+
+Here are a few notes to ensure safety with hardware wallets:
 
 * When purchasing always buy direct from the manufacturer.
 * They will NEVER come with a preinstalled seed, some attacks have come with the seed phrase already filled in. Always generate your own on the device.
@@ -275,6 +277,17 @@ Vitalik Buterin wrote the article [Why we need wide adoption of social recovery 
 If you setup a software wallet, collected hundreds or thousands of NFTs and it is prohibitively expensive to transfer your NFTs to a new hardware wallet a better option to leaving them where they are is to import that seed to a hardware wallet and remove the seed from all previous wallets.
 
 This should only be done if it prohibitively expensive to just move the NFTs, which can otherwise be done in batches on Opensea by bundling upto 50 NFTs together. It is worth noting that although batched items transfer in one transaction the compute on the blockchain is still the same so gas will be similar to sending each one separately.
+
+### Wallet usage
+
+It is good practice to have hot wallets and cold wallets
+
+**Cold wallets** are stored offline, rarely accessed and used to keep assets of larger value
+**Hot wallets** are for day-to-day usage but are only used to keep smaller amounts of value
+
+To build on this principle you can further increase security - as suggested by Tagachi in our interview - by never enabling blind transaction signing or interacting with any smart contracts with your hardware / cold wallets, instead gp  cold wallet --> hot wallet --> contract interaction and vice versa the otherway.
+
+> In extreme cases different assets can be stored in separate hardware wallets for compartmentalisation
 
 
 ## Token approvals
