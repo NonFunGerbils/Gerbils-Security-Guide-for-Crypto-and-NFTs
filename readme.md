@@ -76,15 +76,13 @@ This is porting someone's phone number to another sim card to take control of th
 
 In addition if they have access to your email they might also have access to your google drive, dropbox, icloud and be able to scrape through and take anything they like such as backups of passwords and seed phrases or personal photos.
 
-[MFA (Multi Factor Authentication)](#mfa-multifactor-authentication) and [OPSEC (Operational Security)](#opsec-operational-security) can help defend against this.
+[MFA (Multi Factor Authentication)](#mfa-multi-factor-authentication) and [OPSEC (Operational Security)](#opsec-operational-security) can help defend against this.
 
 ## **Social engineering**
 
 This is a broad category that can include collecting information on someone to then impersonate them for a sim swapping attack or it could be as simple as impersonating a friend or colleague on discord and asking to send funds over.
 
 Social engineering is also used to befriend people and gather information about them over time. as the victim begins to trust the attacker they might divulge information such as where they live, share photos with detailed metadata, email addresses, habits, practices and other personal details that can then be used in an attack.
-
-Here OPSEC and a security mindset are needed to mitigate and keep you alert to risk as they occur.
 
 Below is an example of an email that came with a red flag that could be easily missed, the email domain resembles but does NOT match the domain of the company they are claiming to represent. This is probably a social engineering attack that would result in them seding over a resource with malware for the recipient to open.
 
@@ -94,7 +92,7 @@ Below is an example of an email that came with a red flag that could be easily m
 
 Sometimes you are your own worst enemy, relying on a single computer / phone / USB stick / piece of paper to store your passwords & seed phrases can easily result in loss.
 
-Backups and redundancy are very important.
+[Backups](#backups) and redundancy are very important.
 
 ## Sending to the wrong address
 
@@ -110,7 +108,7 @@ Crypto analytics firm [Glassnode estimate 3 million Bitcoin are lost forever](ht
 
 Intercepted comms can happen through using open or public WiFi, a simple example of this can be an attacker impersonating the wifi at your local cafe, you connect to their wifi and check your email. They can then serve you a fake website and capture your login credentials.
 
-This is where VPNs become an important tool.
+This is where [VPNs](#vpns) become an important tool.
 
 ## Physical theft
 
@@ -169,7 +167,7 @@ Just like using unique passwords dramatically increases your security, so do uni
 
 For low importance services such as newsletters or online purchases you can use a randomly generated alias on the simplelogin.com domains which increases privacy but reduces personal redundancy. If you don't use Simple login there are other services that offer burner aliases such as [33mail](https://33mail.com/). 
 
-Apple also has a service that does a similar thing with a service called [hide my email](https://support.apple.com/en-gb/guide/iphone/iphf277f837e/15.0/ios/15.0) whereby it creates randomly generated email addresses such as T$lDa9Mpp&&1E%2g6O4@icloud.com. The downside to this service means you are tied to Apple as you can't do this with a custom domain name.
+Apple also has a service that does a similar thing with a service called [hide my email](https://support.apple.com/en-gb/guide/iphone/iphf277f837e/15.0/ios/15.0) whereby it creates randomly generated email addresses such as T$lDa9Mpp&&1E2g6O4@icloud.com. The downside to this service means you are tied to Apple as you can't do this with a custom domain name.
 
 ## MFA (Multi Factor Authentication)
 
@@ -177,7 +175,7 @@ Adding 2FA to an account is on of the most effective ways of increasing the secu
 
 ### Phone based MFA
 
-Should be avoided as it is vulnerable to [sim swapping attacks](1.-how-crypto-gets-lost-or-stolen.md#sim-swapping).
+Should be avoided as it is vulnerable to [sim swapping attacks](sim-swapping).
 
 ### Hardware MFA devices
 
@@ -201,7 +199,7 @@ A seed is the key to most forms of wallet and must be guarded at all costs. NEVE
 
 ### Safe deposit boxes
 
-These are a great option for keeping a safe backup of your seeds [see thread by Erick / Snowfro](https://twitter.com/ArtOnBlockchain/status/1545064027390361602?s=20&t=6e5esROGVVzVfpEES8hbvQ). It is worth considering that you don't want a person at the bank (or anyone else) to be able to access your full plain text seed. One option is to keep a spare hardware wallet (or two) in your safe deposit box, you could increase redundancy by using two different banks. Another option is to have your seed in plain text but split it between deposit boxes at different banks. Another option would be to have an encrypted USB stick (or two).
+These are a great option for keeping a safe backup of your seeds (see [thread by Erick / Snowfro](https://twitter.com/ArtOnBlockchain/status/1545064027390361602?s=20&t=6e5esROGVVzVfpEES8hbvQ)). It is worth considering that you don't want a person at the bank (or anyone else) to be able to access your full plain text seed. One option is to keep a spare hardware wallet (or two) in your safe deposit box, you could increase redundancy by using two different banks. Another option is to have your seed in plain text but split it between deposit boxes at different banks. Another option would be to have an encrypted USB stick (or two).
 
 ### Encrypted USB sticks / memory cards
 
@@ -241,7 +239,7 @@ If you dont have free computer for this usecase you could use a bootable USB Lin
 
 ### Standard software wallets
 
-These are the most common wallets in Crypto which use a mnemonic seed phrase, which is a human readable root key to generate numberous key pairs (see below for definition of key pairs) [Metamask](https://metamask.io/) is an example of a standard browser-based wallet.
+These are the most common wallets in Crypto which use a mnemonic seed phrase, which is a human readable root key to generate numerous key pairs. [Metamask](https://metamask.io/) is an example of a standard browser-based wallet.
 
 >A key pair consists of a public and private key, the public key in this context acts as a public address for an account to receive crypto & tokens and the private key is used to control the account. It is a form of [public key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography) and is the root of safety on the internet!
 
