@@ -376,5 +376,5 @@ There is no such thing as perfect security, however, the more layers you can add
 * [Darknet Diaries](https://darknetdiaries.com) - many stories/interviews, good episodes to start with are [NSO](https://darknetdiaries.com/episode/100/), [@Tenessee](https://darknetdiaries.com/episode/106/) and [Dirty Coms](https://darknetdiaries.com/episode/112/)
 * [Shoshana Zuboff](https://www.adam-buxton.co.uk/podcasts/21) - interview on surveillance capitalism
 * [Techlore](https://www.youtube.com/c/Techlore/videos) - YouTube chanel with lots of privacy & security guides
-* [The Hated One](https://www.youtube.com/c/TheHatedOne/featured) - YouTube channel with [how to be secure playlist](https://www.youtube.com/playlist?list=PLR_ghQEN2SgBNJDv00OGvqnZpMNhbYt4F)
+* [The Hated One](https://www.youtube.com/c/TheHatedOne/featured) - YouTube channel with [how to be secure playlist](https://www.youtube.com/playlist?list=PLR_ghQEN2SgBNJDv00OGvqnZpMNhbYt4F) & [how to secure online accounts](https://youtu.be/3H2CKTRqOEQ)
 * [The Watchman Privacy Podcast](https://watchmanprivacy.com/podcast/)
