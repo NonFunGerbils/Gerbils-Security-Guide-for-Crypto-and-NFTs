@@ -143,7 +143,7 @@ It is advisable to split your passwords based on threat for example use Keepass 
 
 ### Password strength 
 
-The longer and more random the better which is why it is best to use a password manager to generate although some services will not support all character types and have limits to how many characters you can use.
+The longer and more random the better, which is why it is best to use a password manager to generate passwords. Note that some services will not support all character types and have limits on how many characters you can use.
 
 ![KeepassXC password generator](.gitbook/assets/passw1.png)
 
