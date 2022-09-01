@@ -188,7 +188,7 @@ Some Apple Macbooks with the T2 security chip can use fingerprint scanner as har
 
 ![](<.gitbook/assets/yubikeys (1).png>)
 
-[Nitrokey](https://www.nitrokey.com/) is an open source alternative to Yubikey and has a variety of different hardware options.
+[Nitrokey](https://www.nitrokey.com/) and [Solokey](https://solokeys.com/) are open source alternatives to Yubikey with a variety of different hardware options.
 
 ### Authenticator apps
 
