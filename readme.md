@@ -326,7 +326,7 @@ Your phone and the system it runs can make a big difference to security. There i
 * There are some custom operating systems that increase security and privacy. [GrapheneOS](https://grapheneos.org/) is de-googled with a custom hardened kernel that sandboxes each apps memory and storage. The tradeoff is usability is reduced without Google services and requires commitment to de-googling to make work. [CalyxOS](https://calyxos.org/) is degoogled android but with an open source version of google services, it doesn't have the security hardening of Graphene but does have increased privacy over stock Android.
 
 Google offer [Google Advanced Protection](https://landing.google.com/advancedprotection/) to increase security and is recommended for Google Android users who use crypto and NFTs
-Apple have a similar feature that arrived with with IOS 16 called [Apple Lockdown Mode](https://www.pocket-lint.com/phones/news/apple/161801-apple-iphone-14-launch-tipped-for-13-september). This is worth activating as it barely impacts usability but significantly increases iphone security.
+Apple have a similar feature that arrived with with IOS 16 called [Apple Lockdown Mode](https://support.apple.com/en-us/HT212650). This is worth activating as it barely impacts usability but significantly increases iphone security.
 
 Interestingly [The Hated One on Youtube puts forward a compelling case](https://youtu.be/Wd4Pa03LvLk) for why phones are more secure than computers contrary to popular opinion.
 
