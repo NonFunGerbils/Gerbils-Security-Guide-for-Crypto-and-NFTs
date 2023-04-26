@@ -175,9 +175,11 @@ This it a prime example of poor practice from a leading Crypto institute. It lea
 
 I have since changed my number and issued a new single use gemini email address.
 
-**Domain names** - It is good to use your own domain name so that if you need to change email provider/forwarder for any reason you can take your email addresses with you.
+### Domain names
 
- > avoid domain names ending in .xyz as these often get routed straight into peoples spam folders by many email services. This may be true of other exotic domains but I haven't tested. I would advise sticking with older well established ones.
+It is good to use your own domain name so that if you need to change email provider/forwarder for any reason you can take your email addresses with you.
+
+ > avoid Top Level Domains (TLDs) ending in .xyz as these often get routed straight into peoples spam folders by many email services. This may be true of other exotic domains but I haven't tested. I would advise sticking with older well established top level domains such as .com.
 
 For low importance services such as newsletters or online purchases you can use a randomly generated alias on the simplelogin.com domains which increases privacy but reduces personal redundancy. If you don't use Simple login there are other services that offer burner aliases such as [33mail](https://33mail.com/). 
 
