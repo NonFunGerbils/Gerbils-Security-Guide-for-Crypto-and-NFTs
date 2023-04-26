@@ -15,7 +15,7 @@
    - [Passwords](#passwords)
      - [Password strength](#Password-strength)
      - [Passphrases](#Passphrases)
-   - [Usernames & email addresses](#usernames-&-email-addresses)
+   - [Usernames & email addresses](#usernames--email-addresses)
    - [Email links](#Email-links)
    - [MFA (Multi Factor Authentication](#mfa-multi-factor-authentication)
      - [Phone based MFA](#phone-based-mfa)
@@ -161,7 +161,7 @@ Just like using unique passwords dramatically increases your security, so do uni
 
 > The random numbers in **<i>coinbase1436</i>@gerbilpoo.com** is to make it unguessable in case of username and password leaks and patterns being put together for a targeted attack.
 
-###Example
+### Example
 
 Single use email addresses were useful when Gemini had a data breach in November 2022, I knew immediately on November 14 when receiving a Cyberbrokers email to my single use Gemini email address. This told me that the email was fake and secondly that Geimini had suffered a breach. 
 
