@@ -16,6 +16,7 @@
      - [Password strength](#Password-strength)
      - [Passphrases](#Passphrases)
    - [Usernames & email addresses](#usernames-&-email-addresses)
+   - [Email links](#Email-links)
    - [MFA (Multi Factor Authentication](#mfa-multi-factor-authentication)
      - [Phone based MFA](#phone-based-mfa)
      - [Hardware MFA devices](#hardware-mfa-devices)
@@ -54,8 +55,6 @@ We invite the community to get involved and add to/correct this resource where y
 ## **Phishing links**
 
 These can be in the form of links sent through Email, Discord, Twitter ([example phish attempt](https://twitter.com/BelloneLeandro/status/1542469086491418626?s=20&t=VIuuyw8K9Um6uDpZRDJH8Q)) and typically take you to a malicious website, which can either be a clone or a legitimate website which asks for information such as passwords or seed phrases or a website with malicious code that can deliver a virus to your computer / phone.
-
-To reduce the chances of this happening to you requires mindset and following best practices.
 
 ## **Malicious files**
 
@@ -169,6 +168,12 @@ Just like using unique passwords dramatically increases your security, so do uni
 For low importance services such as newsletters or online purchases you can use a randomly generated alias on the simplelogin.com domains which increases privacy but reduces personal redundancy. If you don't use Simple login there are other services that offer burner aliases such as [33mail](https://33mail.com/). 
 
 Apple also has a service that does a similar thing with a service called [hide my email](https://support.apple.com/en-gb/guide/iphone/iphf277f837e/15.0/ios/15.0) whereby it creates randomly generated email addresses such as T$lDa9Mpp&&1E2g6O4@icloud.com. The downside to this service means you are tied to Apple as you can't do this with a custom domain name.
+
+## Email links
+
+* Never open links in emails - remove this habbit and keep your wits about you, it is very easy to accidentally click a malicious link from an email that looks perfect except is sent by a fake email address. 
+* If there is a link you would like to visit go directly to the site independantly. This is best done through bookmarks
+* When signing up to a new service add a bookmark so you have a trusted route to the site
 
 ## MFA (Multi Factor Authentication)
 
@@ -364,6 +369,7 @@ There is no such thing as perfect security, however, the more layers you can add
 * If you don't have a password manager - get one NOW
 * Audit your passwords, replace any reused ones
 * Revoke token Approvals
+* Add bookmarks for your important websites
 * Refresh / create backups
 * Write a guide for your next of kin
 * Make and execute a strategy to pass on your digital assets
