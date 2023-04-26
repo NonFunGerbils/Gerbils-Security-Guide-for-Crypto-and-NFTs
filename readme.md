@@ -161,6 +161,20 @@ Just like using unique passwords dramatically increases your security, so do uni
 
 > The random numbers in **<i>coinbase1436</i>@gerbilpoo.com** is to make it unguessable in case of username and password leaks and patterns being put together for a targeted attack.
 
+###Example
+
+Single use email addresses were useful when Gemini had a data breach in November 2022, I knew immediately on November 14 when receiving a Cyberbrokers email to my single use Gemini email address. This told me that the email was fake and secondly that Geimini had suffered a breach. 
+
+I flagged it up immediately to Gemini on Twitter with zero response https://twitter.com/NonFunGerbils/status/1592184188266246145?s=20
+
+It wasn't until a month later on December 14 that Gemini released a [blog post](https://www.gemini.com/blog/protecting-our-customers-from-phishing-campaigns) suggesting users update their email.
+
+4 months later on March 03, gemini actually emailed their customers to notify them that there had been two breaches one in December and in the Autumn whereby partners were breached and leaked some users names, email addresses, and phone numbers.
+
+This it a prime example of poor practice from a leading Crypto institute. It leaked sensitive person details and opened up the possibility of [Sim swapping](#sim-swapping) attacks to those customers, who were not informed but could have been.
+
+I have since changed my number and issued a new single use gemini email address.
+
 **Domain names** - It is good to use your own domain name so that if you need to change email provider/forwarder for any reason you can take your email addresses with you.
 
  > avoid domain names ending in .xyz as these often get routed straight into peoples spam folders by many email services. This may be true of other exotic domains but I haven't tested. I would advise sticking with older well established ones.
@@ -171,9 +185,10 @@ Apple also has a service that does a similar thing with a service called [hide m
 
 ## Email links
 
-* Never open links in emails - remove this habbit and keep your wits about you, it is very easy to accidentally click a malicious link from an email that looks perfect except is sent by a fake email address. 
+Never open links in emails - remove this habbit and keep your wits about you, it is very easy to accidentally click a malicious link from an email that looks perfect except is sent by a fake email address. 
 * If there is a link you would like to visit go directly to the site independantly. This is best done through bookmarks
 * When signing up to a new service add a bookmark so you have a trusted route to the site
+* You can check the sent from email to see if it is sent from an incorrect domain, If you use an independant email as detailed above for each serice it will also be obvious if the email has come in through the wrong address single use address.
 
 ## MFA (Multi Factor Authentication)
 
