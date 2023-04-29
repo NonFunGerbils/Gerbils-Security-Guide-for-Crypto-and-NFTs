@@ -358,7 +358,7 @@ Interestingly [The Hated One on Youtube puts forward a compelling case](https://
 
 * All unexpected app, website or file behaviour
 * Feeling rushed - never feel rushed to make a decision this is often used to get people to make bad decisions. Humans are easily hackable and a feeling of panic can override rationality.
-* Any email, phonecall, message etc. annoyncing your wallet, account or passwords have been compromised and need urgen attention (do not click any links).
+* Any email, phonecall, message etc. announcing your wallet, account or passwords have been compromised and need urgen attention (do not click any links).
 * Email domains that doesnt fully match company (website) domain eg. opensea.io vs opensea.com or openseaio.com or theopensea.io
 * ALL unsolicited emails and private messages should be treated with great caution
 * New online friends wanting to send you files (documents, images, video, slideshow, pitch decks). If you want to open them do it in a [virtual machine](https://www.vmware.com/topics/glossary/content/virtual-machine.html) or [Amazon Workspaces](https://clients.amazonworkspaces.com/)
