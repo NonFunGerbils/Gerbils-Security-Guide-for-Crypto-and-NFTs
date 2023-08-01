@@ -35,6 +35,7 @@
    - [Backups](#backups)
    - [VPNs](#vpns)
    - [Phone Operating System (OS)](#phone-operating-system-os)
+   - [Phone Numbers](#phone-numbers)
    - [Redflags](#redflags)
    - [OPSEC (Operational Security](#opsec-operational-security)
 4. [To conclude](#to-conclude)
@@ -353,6 +354,26 @@ Google offer [Google Advanced Protection](https://landing.google.com/advancedpro
 Apple have a similar feature that arrived with with IOS 16 called [Apple Lockdown Mode](https://support.apple.com/en-us/HT212650). This is worth activating as it barely impacts usability but significantly increases iphone security.
 
 Interestingly [The Hated One on Youtube puts forward a compelling case](https://youtu.be/Wd4Pa03LvLk) for why phones are more secure than computers contrary to popular opinion.
+
+## Phone Numbers
+
+If you have followed the guide so far then there shouldnt be any accounts linked to your phone number, however, sometimes there will be low priority accounts that you may want to / need to link. In this case and for the reason that getting sim swapped is hugely disruptive there are some strategies that can be implimented.
+
+**Secondary sims**
+It can be worth having a secondary number that you use for all phone based verification. Keeping your personal number only for contact with family and friends. A secondary sim can be kept in your phone if it is dual-sim (or you use an e-sim) and only enable it when needed, or you can keep it in a secondary phone
+
+**VOIP Numbers** 
+Your secondary numbers can be VOIP numbers, these are kept with an online service such as Google Voice or Twilio which offer good high grade security and remove the sim swap vulnerability. Voip numbers are great because you can have as many of them as you want and can have them call through to multiple devices both mobile and desktop.
+
+My recommended mobile VOIP app is Groundwire on IOS and Android as you can have reliable push notifications for incoming calls that work even when the app is closed / sleeping.
+
+**Strategy**
+A high security strategy that is worth considering is as follows:
+* Porting your old personal number to a VOIP service
+* Create a secondary VOIP number for giving out to services and companies when needed
+* keep your cellular number completely secret and give out to no one
+
+This strategy greatly improves security and privacy. It is fairly arbitrary to track someone's location once you know their cellular number but you cannot track someones location through a VOIP number (at least not easily).
 
 ## Redflags
 
