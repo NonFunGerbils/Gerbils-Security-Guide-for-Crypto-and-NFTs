@@ -355,7 +355,7 @@ Apple have a similar feature that arrived with with IOS 16 called [Apple Lockdow
 
 Interestingly [The Hated One on Youtube puts forward a compelling case](https://youtu.be/Wd4Pa03LvLk) for why phones are more secure than computers contrary to popular opinion.
 
-## Phone Numbers
+## Numbers, Sims and VOIP
 
 If you have followed the guide so far then there shouldnt be any accounts linked to your phone number, however, sometimes there will be low priority accounts that you may want to / need to link. In this case and for the reason that getting sim swapped is hugely disruptive there are some strategies that can be implimented.
 
